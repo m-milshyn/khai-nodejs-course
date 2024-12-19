@@ -1,0 +1,11 @@
+{
+  "name": "khai-nodejs-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/m-milshyn/khai-nodejs-course.git",
+  "author": "Mykyta Milshyn <m.milshyn.freelancer@gmail.com>",
+  "license": "MIT"
+}
